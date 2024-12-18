@@ -2,7 +2,7 @@
 This is reverse engineering a shitty Brazilian stealer.
 
 # Why?
-I deobfuscated this entire stealer in order to prove that it has dualhook and that it is the worst stealer of all. This Brazilian stealer is famous for being the former owner of Iluria Stealer, but it's as shit as the iluria itself.
+I deobfuscated this entire stealer. This Brazilian stealer is famous for being the former owner of Iluria Stealer.
 
 # Credits
 - Thanks to Hypexx & Astro for the executable. Without the Exe it would not be possible to reverse engineer.
